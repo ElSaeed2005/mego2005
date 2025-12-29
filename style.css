@@ -128,7 +128,7 @@ header {
     height: 360px;
   }
   .son1 {
-    background-image: url(./images/section2_1.jpg);
+    background-image: url(images/section2_1.jpg);
     background-size: cover;
     position: center;
   }
@@ -204,12 +204,12 @@ header {
     }
   }
   .son4 {
-    background-image: url(./images/section2_2.jpg);
+    background-image: url(images/section2_2.jpg);
     background-size: cover;
     position: center;
   }
   .son5 {
-    background-image: url(./images/section2_3.jpg);
+    background-image: url(images/section2_3.jpg);
     background-size: cover;
     position: center;
   }
@@ -652,7 +652,7 @@ header {
           rgba(0, 0, 0, 0.4),
           rgba(0, 0, 0, 0.4)
         ),
-        url(/images/1_sec9.jpg);
+        url(images/1_sec9.jpg);
       background-size: cover;
       background-position: 50%;
       h1 {
@@ -715,7 +715,7 @@ header {
 
       .img_box3 {
         width: 240px;
-        background-image: url(/images/2_sec9.jpg);
+        -image: url(images/2_sec9.jpg);
         background-size: cover;
         background-position: 53%;
       }
@@ -752,14 +752,14 @@ header {
       height: 390px;
       background-color: aqua;
       margin-top: -90px;
-      background-image: url(/images/3_sec9.jpg);
+      background-image: url(images/3_sec9.jpg);
       background-size: cover;
     }
   }
 }
 .section10 {
   background-color: #34365a;
-  background-image: url(./images/sec10.jpg);
+  background-image: url(images/sec10.jpg);
   height: 120vh;
   width: 100%;
   background-size: cover;
