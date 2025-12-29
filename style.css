@@ -477,7 +477,7 @@ header {
     .img {
       width: 225px;
       height: 225px;
-      background-image: url(/images/girl_sec7.jpg);
+      background-image: url(images/girl_sec7.jpg);
       background-size: cover;
       position: center;
       border-radius: 50%;
