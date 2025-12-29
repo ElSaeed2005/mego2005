@@ -715,7 +715,7 @@ header {
 
       .img_box3 {
         width: 240px;
-        -image: url(images/2_sec9.jpg);
+        background-image: url(images/2_sec9.jpg);
         background-size: cover;
         background-position: 53%;
       }
